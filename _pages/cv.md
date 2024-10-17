@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Team Leaders
+## Team Leaders
 ======
 # Adriane Esquivel-Muelbert
 
@@ -24,7 +24,7 @@ E-mail: [[klipeljoice@gmail.com](mailto:klipeljoice@gmail.com)], [[googlescholar
 E-mail: [[rodrigo.bergamin80@gmail.com](mailto:rodrigo.bergamin80@gmail.com)], [[googlescholar](https://scholar.google.com.br/citations?user=uAoCb5gAAAAJ&hl=pt-PT)]
 
 
-Team Members
+## Team Members
 ======
 # Ana Carolina Carnaval
 
