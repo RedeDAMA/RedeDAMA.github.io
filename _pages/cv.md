@@ -52,7 +52,7 @@ redirect_from:
 
  Leony Aparecido Silva Ferreira ([leonyasferreira@gmail.com](mailto:leonyasferreira@gmail.com))
 
- Luciana F. Alves ([lu.falves@gmail.comp](mailto:lu.falves@gmail.comp)], [[lualves@ucla.edu](mailto:lualves@ucla.edu))
+ Luciana F. Alves ([lualves@ucla.edu](mailto:lualves@ucla.edu))
 
  Luiz Magnago ([luizmagnago@gmail.com](mailto:luizmagnago@gmail.com))
 
