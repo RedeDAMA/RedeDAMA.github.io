@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-![caules](https://rededama.github.io/images/caules.png)
+![caules](https://rededama.github.io/images/caules.jpg)
 
 ## Team Leaders
  
