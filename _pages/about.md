@@ -31,4 +31,4 @@ Our academic cooperation proposal seeks to strengthen a network of researchers a
 
 ### *For more info*
 
-Do you have permanent plots in the Atlantic Forest and want to collaborate with us? Contact us at this email: joice.klipel@leuphana.de, r.bergamin@bham.ac.uk
+Do you have permanent plots in the Atlantic Forest and want to collaborate with us? Contact us at this email: joice.klipel@leuphana.de, rodrigo.bergamin80@gmail.com
