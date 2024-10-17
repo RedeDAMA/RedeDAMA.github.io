@@ -38,9 +38,17 @@ E-mail: [[acvibrans@gmail.com](mailto:acvibrans@gmail.com)]
 
 E-mail: [[carol_sil4@yahoo.com.br](mailto:carol_sil4@yahoo.com.br)]
 
+# Ana Lívia Carvalho Rodrigues
+
+E-mail: [[analivia.crrodrigues@gmail.com](mailto:analivia.crrodrigues@gmail.com)]
+
 # André Luís de Gasper
 
 E-mail: [[algasper@furb.br](mailto:algasper@furb.br)]
+
+# André Maciel Silva-Sene
+
+E-mail: [[andremacielbot@gmail.com](mailto:andremacielbot@gmail.com)]
 
 # Camila Laís Farrapo
 
@@ -58,6 +66,14 @@ E-mail: [[dora@uenf.br](mailto:dora@uenf.br)]
 
 E-mail: [[elivanesc@gmail.com](mailto:elivanesc@gmail.com)]
 
+# Felipe Carvalho Araújo
+
+E-mail: [[carvalhoaraujo_f@yahoo.com.br](mailto:carvalhoaraujo_f@yahoo.com.br)]
+
+# Fernanda Moreira Gianasi
+
+E-mail: [[fergianasi@gmail.com](mailto:fergianasi@gmail.com)]
+
 # Irineu Gonçalves Oliveira
 
 E-mail: [[irineujgo@gmail.com](mailto:irineujgo@gmail.com)]
@@ -69,6 +85,10 @@ E-mail: [[jpm@ib.usp.br](mailto:jpm@ib.usp.br)]
 # Kauane Maiara Bordin
 
 E-mail: [[kauanembordin@gmail.com](mailto:kauanembordin@gmail.com)]
+
+# Leony Aparecido Silva Ferreira
+
+E-mail: [[leonyasferreira@gmail.com](mailto:leonyasferreira@gmail.com)]
 
 # Luciana F. Alves
 
@@ -86,9 +106,17 @@ E-mail: [[mtn@uenf.br](mailto:mtn@uenf.br)]
 
 E-mail: [[mariormoura@gmail.com](mailto:mariormoura@gmail.com)]
 
+# Miguel Gama Reis
+
+E-mail: [[miguel_greis@yahoo.com.br](mailto:miguel_greis@yahoo.com.br)]
+
 # Pedro Higuchi
 
 E-mail: [[higuchip@gmail.com](mailto:higuchip@gmail.com)]
+
+# Rafaella Tavares Pereira
+
+E-mail: [[tavaresrafaella27@gmail.com](mailto:tavaresrafaella27@gmail.com)]
 
 # Renato Augusto Ferreira de Lima
 
@@ -113,6 +141,10 @@ E-mail: [[s.menezes2009@gmail.com](mailto:s.menezes2009@gmail.com)]
 # Simone Aparecida Vieira
 
 E-mail: [[sivieira@unicamp.br](mailto:sivieira@unicamp.br)]
+
+# Tatiane Almeida Souza
+
+E-mail: [[tatianealmeida2089@gmail.com](mailto:tatianealmeida2089@gmail.com)]
 
 # Victor Pereira Zwiener
 
