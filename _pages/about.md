@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Guilherme Korol"
+title: "Rede DAMA"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,13 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-My name is Guilherme dos Santos Korol, I'm a postdoctoral researcher at the [Chair for Compiler Construction](https://cfaed.tu-dresden.de/ccc-about) (CCC) at the Computer Science Department of [TU Dresden](https://tu-dresden.de/?set_language=en). For my PhD, I was with the [Computer Science](https://www.inf.ufrgs.br/ppgc/) program at the [Federal University of Rio Grande do Sul](http://www.ufrgs.br/ufrgs/inicial) (UFRGS) in Brazil. There, I worked under the supervision of Professor [Antonio Beck](http://www.inf.ufrgs.br/~caco/). Between September 2022 and April 2023, I was also with the CCC under the supervision of Professor [Jeronimo Castrillon](https://cfaed.tu-dresden.de/ccc-staff-castrillon).
 
-My research areas are **Computer Architecture**, **Reconfigurable Computing**, and **Compilers** for **Deep Learning**. In my PhD, my work targeted efficient execution of Deep Neural Networks (DNN) on FPGAs. I investigated how optimization methods (from the ones at the hardware level like approximate computing and HLS to the ones at the DNN level like pruning, quantization, and early-exit) can improve the FPGA execution of DNNs - especially under constrained environments like the IoT-edge.
+### *About us*
 
-### *More about me:*
+Rede DAMA (Dinâmica Ambiental da Mata Atlântica- Atlantic Forest Environmental Dynamics) is a network of researchers united to understand the complex dynamics of the Atlantic Forest, one of the most biodiverse ecosystems on the planet.
 
-I received my BSc. in Computer Engineering from the [Pontifical Catholic University of Rio Grande do Sul](https://www.pucrs.br/) (PUCRS) in 2018. I also took classes abroad at the [University of Colorado at Denver](https://www.ucdenver.edu/) (CU Denver) for three terms during my bachelor. After, I joined the [Microelectronics](http://www.ufrgs.br/pgmicro) program at UFRGS, where I got my MSc degree in 2020 (on general-purpose reconfigurable computing).
+### *Our goal*
 
-Before all that, I have worked as an electronic technician for a few companies before focusing on research. Then, as a bachelor student, I took part in my first research project as a research intern at the [Capitol Technology University](https://www.captechu.edu/) (Laurel/MD) at the end of my exchange at CU Denver. This project was a partnership with NASA's [Goddard Space Flight Center](https://www.nasa.gov/centers/goddard/about/index.html). After the exchange, I worked on a few other research projects, like designing a full-VHDL CNN accelerator for my final bachelor project, before starting my Masters's.
-*See more details and a full list of my projects [here](https://gkorol.github.io/projects/) and their resulting publications [here](https://gkorol.github.io/publications/).*
+The project aims to strengthen and expand cooperation between national and international scientists focused on investigating how the Atlantic Forest responds to climate change, as well as assessing the impacts of these responses on biodiversity and ecosystem functioning. The core objective is to deepen our understanding of how tropical forests, rich in biodiversity, react to climatic anomalies and to determine the factors influencing tree mortality, recruitment, and growth within this ecosystem. Through collaboration, Rede DAMA seeks to generate knowledge that can support conservation strategies and inform policy decisions for the sustainable management of this critical biome.
+
+### *Context of our group*
+
+The forests of the Atlantic Forest are among the most diverse on the planet. Additionally, approximately 70% of Brazil’s population lives within the Atlantic Forest biome and relies on the many services provided by its forests, such as water supply, slope stabilization, carbon storage, climate regulation, and pollination, among others. Despite the critical importance of this biome, we still know very little about how these forests—particularly their biodiversity and the ecosystem services they provide—are responding to climate change. Understanding how global changes are affecting the Atlantic Forest depends on:
+
+1-Long-term studies in permanent forest plots that allow us to track the trajectories of different species and biological communities and their responses to extreme climate events;
+
+2-The collection and integration of data from permanent plots across the Atlantic Forest and;
+
+3-The strengthening and integration of the scientific community throughout the various regions of the biome.
+
+Our academic cooperation proposal seeks to strengthen a network of researchers and international institutions centered in Brazil to promote understanding of the impact of global changes on tree species and ecosystem functioning in the Atlantic Forest.
+
+### *For more info*
+
+Do you have permanent plots in the Atlantic Forest and want to collaborate with us? Contact us at this email: joice.klipel@leuphana.de
