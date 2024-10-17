@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+![caules](https://rededama.github.io/images/caules.png)
+
 ## Team Leaders
  
  Adriane Esquivel-Muelbert ([a.esquivelmuelbert@bham.ac.uk](mailto:a.esquivelmuelbert@bham.ac.uk), [scholar](https://scholar.google.com/citations?user=d6XOOK0AAAAJ&hl=en))
