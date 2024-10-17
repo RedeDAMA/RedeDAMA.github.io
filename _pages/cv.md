@@ -15,135 +15,72 @@ redirect_from:
 
  Joice Klipel ([klipeljoice@gmail.com](mailto:klipeljoice@gmail.com), [googlescholar](https://scholar.google.com/citations?user=oG4eV9MAAAAJ&hl=pt-BR))
 
- Rodrigo Scarton Bergamin ([rodrigo.bergamin80@gmail.com](mailto:rodrigo.bergamin80@gmail.com)], [googlescholar](https://scholar.google.com.br/citations?user=uAoCb5gAAAAJ&hl=pt-PT))
+ Rodrigo Scarton Bergamin ([rodrigo.bergamin80@gmail.com](mailto:rodrigo.bergamin80@gmail.com), [googlescholar](https://scholar.google.com.br/citations?user=uAoCb5gAAAAJ&hl=pt-PT))
 
 
 ## Team Members
-======
  
- Ana Carolina Carnaval
+ Ana Carolina Carnaval ([carolinacarnaval@gmail.com](mailto:carolinacarnaval@gmail.com))
 
-E-mail: [[carolinacarnaval@gmail.com](mailto:carolinacarnaval@gmail.com)]
+ Alexander C. Vibrans ([acvibrans@gmail.com](mailto:acvibrans@gmail.com))
 
- Alexander C. Vibrans
+ Ana Carolina da Silva ([carol_sil4@yahoo.com.br](mailto:carol_sil4@yahoo.com.br))
 
-E-mail: [[acvibrans@gmail.com](mailto:acvibrans@gmail.com)]
+ Ana Lívia Carvalho Rodrigues ([analivia.crrodrigues@gmail.com](mailto:analivia.crrodrigues@gmail.com))
 
- Ana Carolina da Silva
+ André Luís de Gasper ([algasper@furb.br](mailto:algasper@furb.br))
 
-E-mail: [[carol_sil4@yahoo.com.br](mailto:carol_sil4@yahoo.com.br)]
+ André Maciel Silva-Sene ([andremacielbot@gmail.com](mailto:andremacielbot@gmail.com))
 
- Ana Lívia Carvalho Rodrigues
+ Camila Laís Farrapo ([camila.farrapo@ufla.br](mailto:camila.farrapo@ufla.br))
 
-E-mail: [[analivia.crrodrigues@gmail.com](mailto:analivia.crrodrigues@gmail.com)]
+ Carolina Casagrande Blanco ([carolynablanco@gmail.com](mailto:carolynablanco@gmail.com))
 
- André Luís de Gasper
+ Dora Maria Villela ([dora@uenf.br](mailto:dora@uenf.br))
 
-E-mail: [[algasper@furb.br](mailto:algasper@furb.br)]
+ Elivane S. Capellesso ([elivanesc@gmail.com](mailto:elivanesc@gmail.com))
 
- André Maciel Silva-Sene
+ Felipe Carvalho Araújo ([carvalhoaraujo_f@yahoo.com.br](mailto:carvalhoaraujo_f@yahoo.com.br))
 
-E-mail: [[andremacielbot@gmail.com](mailto:andremacielbot@gmail.com)]
+ Fernanda Moreira Gianasi ([fergianasi@gmail.com](mailto:fergianasi@gmail.com))
 
- Camila Laís Farrapo
+ Irineu Gonçalves Oliveira ([irineujgo@gmail.com](mailto:irineujgo@gmail.com))
 
-E-mail: [[camila.farrapo@ufla.br](mailto:camila.farrapo@ufla.br)]
+ Jean Metzger ([jpm@ib.usp.br](mailto:jpm@ib.usp.br))
 
- Carolina Casagrande Blanco
+ Kauane Maiara Bordin ([kauanembordin@gmail.com](mailto:kauanembordin@gmail.com))
 
-E-mail: [[carolynablanco@gmail.com](mailto:carolynablanco@gmail.com)]
+ Leony Aparecido Silva Ferreira ([leonyasferreira@gmail.com](mailto:leonyasferreira@gmail.com))
 
- Dora Maria Villela
+ Luciana F. Alves ([lu.falves@gmail.comp](mailto:lu.falves@gmail.comp)], [[lualves@ucla.edu](mailto:lualves@ucla.edu))
 
-E-mail: [[dora@uenf.br](mailto:dora@uenf.br)]
+ Luiz Magnago ([luizmagnago@gmail.com](mailto:luizmagnago@gmail.com))
 
- Elivane S. Capellesso
+ Marcelo Trindade Nascimento ([mtn@uenf.br](mailto:mtn@uenf.br))
 
-E-mail: [[elivanesc@gmail.com](mailto:elivanesc@gmail.com)]
+ Mario Moura ([mariormoura@gmail.com](mailto:mariormoura@gmail.com))
 
- Felipe Carvalho Araújo
+ Miguel Gama Reis ([miguel_greis@yahoo.com.br](mailto:miguel_greis@yahoo.com.br))
 
-E-mail: [[carvalhoaraujo_f@yahoo.com.br](mailto:carvalhoaraujo_f@yahoo.com.br)]
+ Pedro Higuchi ([higuchip@gmail.com](mailto:higuchip@gmail.com))
 
- Fernanda Moreira Gianasi
+ Rafaella Tavares Pereira ([tavaresrafaella27@gmail.com](mailto:tavaresrafaella27@gmail.com))
 
-E-mail: [[fergianasi@gmail.com](mailto:fergianasi@gmail.com)]
+ Renato Augusto Ferreira de Lima ([raflima@usp.br](mailto:raflima@usp.br))
 
- Irineu Gonçalves Oliveira
+ Ronan Souza ([ronanflorestal@gmail.com](mailto:ronanflorestal@gmail.com))
 
-E-mail: [[irineujgo@gmail.com](mailto:irineujgo@gmail.com)]
+ Rubens Manoel Dos Santos ([rubensmanoel@ufla.br](mailto:rubensmanoel@ufla.br))
 
- Jean Metzger
+ Sandra Cristina Müller ([sandra.muller@ufrgs.br](mailto:sandra.muller@ufrgs.br))
 
-E-mail: [[jpm@ib.usp.br](mailto:jpm@ib.usp.br)]
+ Sandro Menezes Silva ([s.menezes2009@gmail.com](mailto:s.menezes2009@gmail.com))
 
- Kauane Maiara Bordin
+ Simone Aparecida Vieira ([sivieira@unicamp.br](mailto:sivieira@unicamp.br))
 
-E-mail: [[kauanembordin@gmail.com](mailto:kauanembordin@gmail.com)]
+ Tatiane Almeida Souza ([tatianealmeida2089@gmail.com](mailto:tatianealmeida2089@gmail.com))
 
- Leony Aparecido Silva Ferreira
-
-E-mail: [[leonyasferreira@gmail.com](mailto:leonyasferreira@gmail.com)]
-
- Luciana F. Alves
-
-E-mail: [[lu.falves@gmail.comp](mailto:lu.falves@gmail.comp)], [[lualves@ucla.edu](mailto:lualves@ucla.edu)]
-
- Luiz Magnago
-
-E-mail: [[luizmagnago@gmail.com](mailto:luizmagnago@gmail.com)]
-
- Marcelo Trindade Nascimento
-
-E-mail: [[mtn@uenf.br](mailto:mtn@uenf.br)]
-
- Mario Moura
-
-E-mail: [[mariormoura@gmail.com](mailto:mariormoura@gmail.com)]
-
- Miguel Gama Reis
-
-E-mail: [[miguel_greis@yahoo.com.br](mailto:miguel_greis@yahoo.com.br)]
-
- Pedro Higuchi
-
-E-mail: [[higuchip@gmail.com](mailto:higuchip@gmail.com)]
-
- Rafaella Tavares Pereira
-
-E-mail: [[tavaresrafaella27@gmail.com](mailto:tavaresrafaella27@gmail.com)]
-
- Renato Augusto Ferreira de Lima
-
-E-mail: [[raflima@usp.br](mailto:raflima@usp.br)]
-
- Ronan Souza
-
-E-mail: [[ronanflorestal@gmail.com](mailto:ronanflorestal@gmail.com)]
-
- Rubens Manoel Dos Santos
-
-E-mail: [[rubensmanoel@ufla.br](mailto:rubensmanoel@ufla.br)]
-
- Sandra Cristina Müller
-
-E-mail: [[sandra.muller@ufrgs.br](mailto:sandra.muller@ufrgs.br)]
-
- Sandro Menezes Silva
-
-E-mail: [[s.menezes2009@gmail.com](mailto:s.menezes2009@gmail.com)]
-
- Simone Aparecida Vieira
-
-E-mail: [[sivieira@unicamp.br](mailto:sivieira@unicamp.br)]
-
- Tatiane Almeida Souza
-
-E-mail: [[tatianealmeida2089@gmail.com](mailto:tatianealmeida2089@gmail.com)]
-
- Victor Pereira Zwiener
-
-E-mail: [[vzwiener@gmail.com](mailto:vzwiener@gmail.com)]
+ Victor Pereira Zwiener ([vzwiener@gmail.com](mailto:vzwiener@gmail.com))
 
 
 
