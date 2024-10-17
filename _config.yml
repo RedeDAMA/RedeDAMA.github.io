@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Guilherme Korol"
+title                    : "Rede DAMA"
 title_separator          : "-"
-name                     : &name "Guilherme Korol"
-description              : &description "Ph.D. Student"
-url                      : https://gkorol.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Rede DAMA"
+description              : &description "Rede DAMA (Dinâmica Ambiental da Mata Atlântica- Atlantic Forest Environmental Dynamics)"
+url                      : https://RedeDAMA.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gkorol/gkorol.github.io"
+repository               : "RedeDAMA/RedeDAMA.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "@gskorol"
+  username               : &twitter 
 facebook:
   username               :
   app_id                 :
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Guilherme Korol"
-  avatar           : "perfil.jpg"
-  bio              : "Ph.D. Student"
-  location         : "Porto Alegre - Brazil"
-  employer         : "UFRGS"
+  name             : "Rede DAMA"
+  avatar           : 
+  bio              : "Rede DAMA (Dinâmica Ambiental da Mata Atlântica)"
+  location         : "Brazilian Atlantic Forest"
+  employer         : 
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=Nscn1awAAAAJ"
-  email            : "gskorol@inf.ufrgs.br"
+  googlescholar    : 
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "guilherme-korol-a970215b/"
+  linkedin         : 
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "gskorol"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
