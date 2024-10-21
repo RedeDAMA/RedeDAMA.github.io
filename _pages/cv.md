@@ -11,78 +11,78 @@ redirect_from:
 
 ![caules](https://rededama.github.io/images/caules.jpg)
 
-## Team Leaders
+## Organizers
  
- Adriane Esquivel-Muelbert ([University of Birmingham](https://www.birmingham.ac.uk/staff/profiles/gees/muelbert-adriane-esquivel), [a.esquivelmuelbert@bham.ac.uk](mailto:a.esquivelmuelbert@bham.ac.uk), [scholar](https://scholar.google.com/citations?user=d6XOOK0AAAAJ&hl=en))
+ Adriane Esquivel-Muelbert ([University of Birmingham](https://www.birmingham.ac.uk/staff/profiles/gees/muelbert-adriane-esquivel)), [scholar](https://scholar.google.com/citations?user=d6XOOK0AAAAJ&hl=en))
 
- Joice Klipel ([Leuphana University of Lüneburg](https://www.leuphana.de/institute/institut-fuer-oekologie/personen/joice-klipel.html), [klipeljoice@gmail.com](mailto:klipeljoice@gmail.com), [scholar](https://scholar.google.com/citations?user=oG4eV9MAAAAJ&hl=pt-BR))
+ Joice Klipel ([Leuphana University of Lüneburg](https://www.leuphana.de/institute/institut-fuer-oekologie/personen/joice-klipel.html), [scholar](https://scholar.google.com/citations?user=oG4eV9MAAAAJ&hl=pt-BR))
 
- Rodrigo Scarton Bergamin (University of Birmingham, [rodrigo.bergamin80@gmail.com](mailto:rodrigo.bergamin80@gmail.com), [scholar](https://scholar.google.com.br/citations?user=uAoCb5gAAAAJ&hl=pt-PT))
+ Rodrigo Scarton Bergamin (University of Birmingham, [scholar](https://scholar.google.com.br/citations?user=uAoCb5gAAAAJ&hl=pt-PT))
 
 
 ## Team Members
  
- Ana Carolina Carnaval ([carolinacarnaval@gmail.com](mailto:carolinacarnaval@gmail.com))
+ Ana Carolina Carnaval 
 
- Alexander C. Vibrans ([acvibrans@gmail.com](mailto:acvibrans@gmail.com))
+ Alexander C. Vibrans 
 
- Ana Carolina da Silva ([carol_sil4@yahoo.com.br](mailto:carol_sil4@yahoo.com.br))
+ Ana Carolina da Silva 
 
- Ana Lívia Carvalho Rodrigues ([analivia.crrodrigues@gmail.com](mailto:analivia.crrodrigues@gmail.com))
+ Ana Lívia Carvalho Rodrigues 
 
- André Luís de Gasper ([algasper@furb.br](mailto:algasper@furb.br))
+ André Luís de Gasper 
 
- André Maciel Silva-Sene ([andremacielbot@gmail.com](mailto:andremacielbot@gmail.com))
+ André Maciel Silva-Sene 
 
- Camila Laís Farrapo ([camila.farrapo@ufla.br](mailto:camila.farrapo@ufla.br))
+ Camila Laís Farrapo 
 
- Carolina Casagrande Blanco ([carolynablanco@gmail.com](mailto:carolynablanco@gmail.com))
+ Carolina Casagrande Blanco 
 
- Dora Maria Villela ([dora@uenf.br](mailto:dora@uenf.br))
+ Dora Maria Villela 
 
- Elivane S. Capellesso ([elivanesc@gmail.com](mailto:elivanesc@gmail.com))
+ Elivane S. Capellesso 
 
- Felipe Carvalho Araújo ([carvalhoaraujo_f@yahoo.com.br](mailto:carvalhoaraujo_f@yahoo.com.br))
+ Felipe Carvalho Araújo 
 
- Fernanda Moreira Gianasi ([fergianasi@gmail.com](mailto:fergianasi@gmail.com))
+ Fernanda Moreira Gianasi 
+ 
+ Irineu Gonçalves Oliveira 
 
- Irineu Gonçalves Oliveira ([irineujgo@gmail.com](mailto:irineujgo@gmail.com))
+ Jean Metzger 
 
- Jean Metzger ([jpm@ib.usp.br](mailto:jpm@ib.usp.br))
+ Kauane Maiara Bordin 
 
- Kauane Maiara Bordin ([kauanembordin@gmail.com](mailto:kauanembordin@gmail.com))
+ Leony Aparecido Silva Ferreira 
 
- Leony Aparecido Silva Ferreira ([leonyasferreira@gmail.com](mailto:leonyasferreira@gmail.com))
+ Luciana F. Alves 
 
- Luciana F. Alves ([lualves@ucla.edu](mailto:lualves@ucla.edu))
+ Luiz Magnago 
 
- Luiz Magnago ([luizmagnago@gmail.com](mailto:luizmagnago@gmail.com))
+ Marcelo Trindade Nascimento 
 
- Marcelo Trindade Nascimento ([mtn@uenf.br](mailto:mtn@uenf.br))
+ Mario Moura 
 
- Mario Moura ([mariormoura@gmail.com](mailto:mariormoura@gmail.com))
+ Miguel Gama Reis 
 
- Miguel Gama Reis ([miguel_greis@yahoo.com.br](mailto:miguel_greis@yahoo.com.br))
+ Pedro Higuchi 
 
- Pedro Higuchi ([higuchip@gmail.com](mailto:higuchip@gmail.com))
+ Rafaella Tavares Pereira 
 
- Rafaella Tavares Pereira ([tavaresrafaella27@gmail.com](mailto:tavaresrafaella27@gmail.com))
+ Renato Augusto Ferreira de Lima 
 
- Renato Augusto Ferreira de Lima ([raflima@usp.br](mailto:raflima@usp.br))
+ Ronan Souza 
 
- Ronan Souza ([ronanflorestal@gmail.com](mailto:ronanflorestal@gmail.com))
+ Rubens Manoel Dos Santos 
 
- Rubens Manoel Dos Santos ([rubensmanoel@ufla.br](mailto:rubensmanoel@ufla.br))
+ Sandra Cristina Müller 
 
- Sandra Cristina Müller ([sandra.muller@ufrgs.br](mailto:sandra.muller@ufrgs.br))
+ Sandro Menezes Silva 
 
- Sandro Menezes Silva ([s.menezes2009@gmail.com](mailto:s.menezes2009@gmail.com))
+ Simone Aparecida Vieira 
 
- Simone Aparecida Vieira ([sivieira@unicamp.br](mailto:sivieira@unicamp.br))
+ Tatiane Almeida Souza 
 
- Tatiane Almeida Souza ([tatianealmeida2089@gmail.com](mailto:tatianealmeida2089@gmail.com))
-
- Victor Pereira Zwiener ([vzwiener@gmail.com](mailto:vzwiener@gmail.com))
+ Victor Pereira Zwiener 
 
 
 
