@@ -64,7 +64,7 @@ redirect_from:
 
  Marcelo Trindade Nascimento (Universidade Estadual do Norte Fluminense Darcy Ribeiro, [scholar](https://scholar.google.com.br/citations?user=D5Peey4AAAAJ&hl=pt-BR))
 
- Mario Moura
+ Mario Moura (Universidade Estadual de Campinas)
 
  Miguel Gama Reis (Universidade Federal de Lavras)
 
