@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-![caules](https://rededama.github.io/images/caules.jpg)
+![logos](https://rededama.github.io/images/logos.jpg)
 
 ## Organizers
  
