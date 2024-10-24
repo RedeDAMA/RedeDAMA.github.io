@@ -36,7 +36,7 @@ redirect_from:
 
  Camila Laís Farrapo (Universidade Federal de Lavras) 
 
- Carolina Casagrande Blanco (Universidade de Campinas)
+ Carolina Casagrande Blanco (Universidade Estadual de Campinas)
 
  Dora Maria Villela (Universidade Estadual do Norte Fluminense Darcy Ribeiro, [scholar](https://scholar.google.com.br/citations?user=_f24t5YAAAAJ&hl=pt-BR))
 
@@ -56,33 +56,33 @@ redirect_from:
 
  Luciana F. Alves (University of California-Los Angeles, [scholar](https://scholar.google.com.br/citations?user=ol5nIXkAAAAJ&hl=pt-BR))
 
- Luiz Magnago 
+ Luiz Magnago (Universidade Federal do Sul da Bahia, [scholar](https://scholar.google.com/citations?user=eOj5FKoAAAAJ&hl=pt-BR))
 
- Marcelo Trindade Nascimento 
+ Marcelo Trindade Nascimento (Universidade Estadual do Norte Fluminense Darcy Ribeiro, [scholar](https://scholar.google.com.br/citations?user=D5Peey4AAAAJ&hl=pt-BR))
 
  Mario Moura 
 
- Miguel Gama Reis 
+ Miguel Gama Reis (Universidade Federal de Lavras)
 
- Pedro Higuchi 
+ Pedro Higuchi (Universidade do Estado de Santa Catarina, [scholar](https://scholar.google.com/citations?user=r_BAbBYAAAAJ&hl=en))
 
- Rafaella Tavares Pereira 
+ Rafaella Tavares Pereira (Universidade Federal de Lavras)
 
- Renato Augusto Ferreira de Lima 
+ Renato Augusto Ferreira de Lima (Universidade de São Paulo, [scholar](https://scholar.google.com.br/citations?user=sMQpRpMAAAAJ&hl=pt-BR))
 
- Ronan Souza 
+ Ronan Souza (Florestal Caiua Ltda, Paraná)
 
- Rubens Manoel Dos Santos 
+ Rubens Manoel Dos Santos (Universidade Federal de Lavras, [scholar](https://scholar.google.com.br/citations?user=FBwqJnAAAAAJ&hl=en))
 
  Sandra Cristina Müller (Universidade Federal do Rio Grande do Sul, [scholar](https://scholar.google.com.br/citations?user=YOhnblMAAAAJ&hl=pt-BR))
 
- Sandro Menezes Silva 
+ Sandro Menezes Silva (Universidade Federal da Grande Dourados, [scholar](https://scholar.google.com.br/citations?user=n5WPlh4AAAAJ&hl=en))
 
- Simone Aparecida Vieira 
+ Simone Aparecida Vieira (Universidade Estadual de Campinas, [scholar](https://scholar.google.com/citations?user=sxEVweUAAAAJ&hl=en))
 
- Tatiane Almeida Souza 
+ Tatiane Almeida Souza (Universidade Federal de Lavras)
 
- Victor Pereira Zwiener 
+ Victor Pereira Zwiener (Universidade Federal do Paraná, [scholar](https://scholar.google.com.br/citations?user=618c958AAAAJ&hl=pt-BR))
 
 
 
