@@ -54,6 +54,8 @@ redirect_from:
 
  Kauane Maiara Bordin (Universidade Federal do Rio Grande do Sul, [scholar](https://scholar.google.com/citations?user=RwJPjaEAAAAJ&hl=pt-BR))
 
+ Karla Maria Pedra de Abreu (Instituto Federal do Espírito Santo)
+
  Maurício Lima Dan (Instituto Capixaba de Pesquisa, [scholar](https://scholar.google.com.br/citations?user=wgYrcKwAAAAJ&hl=pt-BR))
 
  Leony Aparecido Silva Ferreira (Universidade Federal de Lavras)
