@@ -70,11 +70,15 @@ redirect_from:
 
  Miguel Gama Reis (Universidade Federal de Lavras)
 
+ Pablo J.F.P. Rodrigues (Instituto de Pesquisas Jardim Botânico do Rio de Janeiro, [scholar](https://scholar.google.com.br/citations?user=bTsj5mgAAAAJ&hl=pt-BR))
+
  Pedro Higuchi (Universidade do Estado de Santa Catarina, [scholar](https://scholar.google.com/citations?user=r_BAbBYAAAAJ&hl=en))
 
  Rafaella Tavares Pereira (Universidade Federal de Lavras)
 
  Renato Augusto Ferreira de Lima (Universidade de São Paulo, [scholar](https://scholar.google.com.br/citations?user=sMQpRpMAAAAJ&hl=pt-BR))
+
+ Rodolfo C.R. Abreu (Universidade Federal Rural do Rio de Janeiro, [scholar](https://scholar.google.com/citations?user=demlf7tnMZ4C&hl=en))
 
  Ronan Souza (Florestal Caiua Ltda, Paraná)
 
