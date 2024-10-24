@@ -45,12 +45,16 @@ redirect_from:
  Felipe Carvalho Araújo (Universidade Federal de Lavras)
 
  Fernanda Moreira Gianasi (Universidade Federal de Lavras, [scholar](https://scholar.google.com.br/citations?user=DawwccEAAAAJ&hl=pt-BR))
+
+ Igor Broggio (Vale Institute of Technology, [scholar](https://scholar.google.com/citations?user=zniWeRUAAAAJ&hl=en))
  
  Irineu Gonçalves Oliveira (Universidade Federal do Paraná)
 
  Jean Metzger (Universidade de São Paulo)
 
  Kauane Maiara Bordin (Universidade Federal do Rio Grande do Sul, [scholar](https://scholar.google.com/citations?user=RwJPjaEAAAAJ&hl=pt-BR))
+
+ Maurício Lima Dan (Instituto Capixaba de Pesquisa, [scholar](https://scholar.google.com.br/citations?user=wgYrcKwAAAAJ&hl=pt-BR))
 
  Leony Aparecido Silva Ferreira (Universidade Federal de Lavras)
 
