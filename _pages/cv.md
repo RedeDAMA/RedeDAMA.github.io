@@ -19,6 +19,7 @@ redirect_from:
 
  Rodrigo Scarton Bergamin (University of Birmingham, [scholar](https://scholar.google.com.br/citations?user=uAoCb5gAAAAJ&hl=pt-PT))
 
+ Simone Aparecida Vieira (Universidade Estadual de Campinas, [scholar](https://scholar.google.com/citations?user=sxEVweUAAAAJ&hl=en))
 
 ## Team Members
  
@@ -87,8 +88,6 @@ redirect_from:
  Sandra Cristina Müller (Universidade Federal do Rio Grande do Sul, [scholar](https://scholar.google.com.br/citations?user=YOhnblMAAAAJ&hl=pt-BR))
 
  Sandro Menezes Silva (Universidade Federal da Grande Dourados, [scholar](https://scholar.google.com.br/citations?user=n5WPlh4AAAAJ&hl=en))
-
- Simone Aparecida Vieira (Universidade Estadual de Campinas, [scholar](https://scholar.google.com/citations?user=sxEVweUAAAAJ&hl=en))
 
  Tatiane Almeida Souza (Universidade Federal de Lavras)
 
