@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-![logos](https://rededama.github.io/images/logos.jpg)
+![logos](https://rededama.github.io/images/logos.jpg) 
 
 ## Organizers
  
