@@ -22,39 +22,39 @@ redirect_from:
 
 ## Team Members
  
- Ana Carolina Carnaval (CUNY-City University of New York, [scholar](https://scholar.google.com/citations?user=aJMTGKEAAAAJ&hl=en)) 
+ Ana Carolina Carnaval (City University of New York, [scholar](https://scholar.google.com/citations?user=aJMTGKEAAAAJ&hl=en)) 
 
  Alexander C. Vibrans (Universidade Regional de Blumenau, [scholar](https://scholar.google.com.br/citations?user=HzKGK5AAAAAJ&hl=en))  
 
- Ana Carolina da Silva 
+ Ana Carolina da Silva (Universidade do Estado de Santa Catarina, [scholar](https://scholar.google.com/citations?user=nn4ht1sAAAAJ&hl=pt-BR))
 
- Ana Lívia Carvalho Rodrigues 
+ Ana Lívia Carvalho Rodrigues (Universidade Federal de Lavras)
 
- André Luís de Gasper 
+ André Luís de Gasper (Universidade Regional de Blumenau, [scholar](https://scholar.google.com.br/citations?user=FPXYzWkAAAAJ&hl=pt-BR))
 
- André Maciel Silva-Sene 
+ André Maciel Silva-Sene (Universidade Federal de Lavras)
 
- Camila Laís Farrapo 
+ Camila Laís Farrapo (Universidade Federal de Lavras) 
 
- Carolina Casagrande Blanco 
+ Carolina Casagrande Blanco (Universidade de Campinas)
 
- Dora Maria Villela 
+ Dora Maria Villela (Universidade Estadual do Norte Fluminense Darcy Ribeiro, [scholar](https://scholar.google.com.br/citations?user=_f24t5YAAAAJ&hl=pt-BR))
 
- Elivane S. Capellesso 
+ Elivane S. Capellesso (Universidade Federal do Paraná, [scholar](https://scholar.google.com.br/citations?user=YUFhZ10AAAAJ&hl=en))
 
- Felipe Carvalho Araújo 
+ Felipe Carvalho Araújo (Universidade Federal de Lavras)
 
- Fernanda Moreira Gianasi 
+ Fernanda Moreira Gianasi (Universidade Federal de Lavras, [scholar](https://scholar.google.com.br/citations?user=DawwccEAAAAJ&hl=pt-BR))
  
- Irineu Gonçalves Oliveira 
+ Irineu Gonçalves Oliveira (Universidade Federal do Paraná)
 
- Jean Metzger 
+ Jean Metzger (Universidade de São Paulo)
 
- Kauane Maiara Bordin 
+ Kauane Maiara Bordin (Universidade Federal do Rio Grande do Sul, [scholar](https://scholar.google.com/citations?user=RwJPjaEAAAAJ&hl=pt-BR))
 
- Leony Aparecido Silva Ferreira 
+ Leony Aparecido Silva Ferreira (Universidade Federal de Lavras)
 
- Luciana F. Alves 
+ Luciana F. Alves (University of California-Los Angeles, [scholar](https://scholar.google.com.br/citations?user=ol5nIXkAAAAJ&hl=pt-BR))
 
  Luiz Magnago 
 
@@ -74,7 +74,7 @@ redirect_from:
 
  Rubens Manoel Dos Santos 
 
- Sandra Cristina Müller 
+ Sandra Cristina Müller (Universidade Federal do Rio Grande do Sul, [scholar](https://scholar.google.com.br/citations?user=YOhnblMAAAAJ&hl=pt-BR))
 
  Sandro Menezes Silva 
 
