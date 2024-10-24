@@ -60,8 +60,6 @@ redirect_from:
 
  Marcelo Trindade Nascimento (Universidade Estadual do Norte Fluminense Darcy Ribeiro, [scholar](https://scholar.google.com.br/citations?user=D5Peey4AAAAJ&hl=pt-BR))
 
- Mario Moura 
-
  Miguel Gama Reis (Universidade Federal de Lavras)
 
  Pedro Higuchi (Universidade do Estado de Santa Catarina, [scholar](https://scholar.google.com/citations?user=r_BAbBYAAAAJ&hl=en))
