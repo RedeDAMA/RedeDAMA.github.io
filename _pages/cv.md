@@ -22,9 +22,9 @@ redirect_from:
 
 ## Team Members
  
- Ana Carolina Carnaval 
+ Ana Carolina Carnaval (CUNY-City University of New York, [scholar]([https://scholar.google.com/citations?user=aJMTGKEAAAAJ&hl=en)) 
 
- Alexander C. Vibrans 
+ Alexander C. Vibrans (Universidade Regional de Blumenau, [scholar](https://scholar.google.com.br/citations?user=HzKGK5AAAAAJ&hl=en))  
 
  Ana Carolina da Silva 
 
