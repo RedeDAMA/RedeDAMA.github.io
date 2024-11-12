@@ -11,7 +11,7 @@ redirect_from:
 
 ### *About us*
 
-Rede DAMA (Dinâmica Ambiental da Mata Atlântica- Atlantic Forest Environmental Dynamics) is a network of researchers united to understand the complex dynamics of the Atlantic Forest, one of the most biodiverse ecosystems on the planet.
+Rede DAMA (Dinâmica Ambiental da Mata Atlântica- Atlantic Forest Environmental Dynamics) is a network of researchers united to understand the complex dynamics of the Atlantic Forest, one of the most biodiverse ecosystems on the planet. This network creates an interface for sharing data and metadata and establishes core research priorities focused on collaborative thinking and investigating the Atlantic Forest. 
 
 ### *Our goal*
 
