@@ -33,7 +33,7 @@ redirect_from:
 
  Ana Lívia Carvalho Rodrigues (Universidade Federal de Lavras)
 
- André Luís de Gasper (Universidade Regional de Blumenau, [scholar](https://scholar.google.com.br/citations?user=FPXYzWkAAAAJ&hl=pt-BR), [site](http://floresta.sc.gov.br/), [instagram](https://instagram.com/inventarioflorestal.sc/))
+ André Luís de Gasper (Universidade Regional de Blumenau, [scholar](https://scholar.google.com.br/citations?user=FPXYzWkAAAAJ&hl=pt-BR), [site](https://www.floresta.sc.gov.br/), [instagram](https://instagram.com/inventarioflorestal.sc/))
 
  André Maciel Silva-Sene (Universidade Federal de Lavras)
 
