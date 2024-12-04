@@ -26,3 +26,5 @@ author_profile: true
 * [Impacts of land use and land cover changes in phytophysiognomies in the atlantic forest](https://www.scielo.br/j/asoc/a/npvK9ZCdh4zSdLJNtk8B5Sn/)
 * [Potential aboveground biomass increase in Brazilian Atlantic Forest fragments with climate change](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.16670)
 * [Elevational shifts in tree community composition in the Brazilian Atlantic Forest related to climate change](https://onlinelibrary.wiley.com/doi/full/10.1111/jvs.13289)
+* [Mixed effects of climate and species richness on aboveground carbon stock in subtropical Atlantic forests](https://www.sciencedirect.com/science/article/pii/S0048969724043043)
+* [Linking beta diversity patterns to protected areas: lessons from the Brazilian Atlantic Rainforest](https://link.springer.com/article/10.1007/s10531-017-1315-y)
