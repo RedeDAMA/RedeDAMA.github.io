@@ -6,3 +6,4 @@
 * [Climate and large-sized trees, but not diversity, drive above-ground biomass in subtropical forests](https://www.sciencedirect.com/science/article/pii/S0378112721002140)
 * [Forest structure and live aboveground biomass variation along an elevational gradient of tropical Atlantic moist forest (Brazil)](https://www.sciencedirect.com/science/article/pii/S0378112710002926?pes=vor&utm_source=sciencedirect_contenthosting&getft_integrator=sciencedirect_contenthosting)
 * [The carbon sink of tropical seasonal forests in southeastern Brazil can be under threat](https://www.science.org/doi/10.1126/sciadv.abd4548)
+* [Loss of biodiversity and shifts in aboveground biomass drivers in tropical rainforests with different disturbance histories](https://link.springer.com/article/10.1007/s10531-018-1598-7)
