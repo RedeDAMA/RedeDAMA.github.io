@@ -28,3 +28,4 @@ author_profile: true
 * [Elevational shifts in tree community composition in the Brazilian Atlantic Forest related to climate change](https://onlinelibrary.wiley.com/doi/full/10.1111/jvs.13289)
 * [Mixed effects of climate and species richness on aboveground carbon stock in subtropical Atlantic forests](https://www.sciencedirect.com/science/article/pii/S0048969724043043)
 * [Linking beta diversity patterns to protected areas: lessons from the Brazilian Atlantic Rainforest](https://link.springer.com/article/10.1007/s10531-017-1315-y)
+* [Toward a forest transition across the Brazilian Atlantic Forest biome](https://www.frontiersin.org/journals/forests-and-global-change/articles/10.3389/ffgc.2023.1071495/full)
