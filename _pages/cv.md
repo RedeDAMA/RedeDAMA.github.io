@@ -41,6 +41,8 @@ redirect_from:
 
  Carolina Casagrande Blanco (Universidade Estadual de Campinas)
 
+ Daniel Piotto (Universidade Federal do Sul da Bahia, [scholar](https://scholar.google.com/citations?user=BF1ECe0AAAAJ&hl=en))
+
  Dora Maria Villela (Universidade Estadual do Norte Fluminense Darcy Ribeiro, [scholar](https://scholar.google.com.br/citations?user=_f24t5YAAAAJ&hl=pt-BR))
 
  Elivane S. Capellesso (Universidade Federal do Paraná, [scholar](https://scholar.google.com.br/citations?user=YUFhZ10AAAAJ&hl=en))
@@ -77,6 +79,8 @@ redirect_from:
 
  Pedro Higuchi (Universidade do Estado de Santa Catarina, [scholar](https://scholar.google.com/citations?user=r_BAbBYAAAAJ&hl=en))
 
+ Ramon Felipe Bicudo da Silva (Universidade Estadual de Campinas, [scholar](https://scholar.google.de/citations?user=eIa-3J4AAAAJ&hl=de))
+
  Rafaella Tavares Pereira (Universidade Federal de Lavras)
 
  Renato Augusto Ferreira de Lima (Universidade de São Paulo, [scholar](https://scholar.google.com.br/citations?user=sMQpRpMAAAAJ&hl=pt-BR))
@@ -86,6 +90,8 @@ redirect_from:
  Ronan Souza (Florestal Caiua Ltda, Paraná)
 
  Rubens Manoel Dos Santos (Universidade Federal de Lavras, [scholar](https://scholar.google.com.br/citations?user=FBwqJnAAAAAJ&hl=en))
+
+ Samir Rolim (Universidade Federal do Sul da Bahia, [scholar](https://scholar.google.com/citations?user=yX4BZ_8AAAAJ&hl=en))
 
  Sandro Menezes Silva (Universidade Federal da Grande Dourados, [scholar](https://scholar.google.com.br/citations?user=n5WPlh4AAAAJ&hl=en))
 
