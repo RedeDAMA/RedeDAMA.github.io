@@ -15,6 +15,8 @@ redirect_from:
  
  Adriane Esquivel-Muelbert ([University of Birmingham](https://www.birmingham.ac.uk/staff/profiles/gees/muelbert-adriane-esquivel), [scholar](https://scholar.google.com/citations?user=d6XOOK0AAAAJ&hl=en))
 
+ André Luís de Gasper (Universidade Regional de Blumenau, [scholar](https://scholar.google.com.br/citations?user=FPXYzWkAAAAJ&hl=pt-BR), [site](https://www.floresta.sc.gov.br/), [instagram](https://instagram.com/inventarioflorestal.sc/))
+
  Joice Klipel ([Leuphana University of Lüneburg](https://www.leuphana.de/institute/institut-fuer-oekologie/personen/joice-klipel.html), [scholar](https://scholar.google.com/citations?user=oG4eV9MAAAAJ&hl=pt-BR))
 
  Rodrigo Scarton Bergamin (University of Birmingham, [scholar](https://scholar.google.com.br/citations?user=uAoCb5gAAAAJ&hl=pt-PT))
@@ -32,8 +34,6 @@ redirect_from:
  Ana Carolina da Silva (Universidade do Estado de Santa Catarina, [scholar](https://scholar.google.com/citations?user=nn4ht1sAAAAJ&hl=pt-BR))
 
  Ana Lívia Carvalho Rodrigues (Universidade Federal de Lavras)
-
- André Luís de Gasper (Universidade Regional de Blumenau, [scholar](https://scholar.google.com.br/citations?user=FPXYzWkAAAAJ&hl=pt-BR), [site](https://www.floresta.sc.gov.br/), [instagram](https://instagram.com/inventarioflorestal.sc/))
 
  André Maciel Silva-Sene (Universidade Federal de Lavras)
 
