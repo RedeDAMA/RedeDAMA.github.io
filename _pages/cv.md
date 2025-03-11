@@ -13,17 +13,17 @@ redirect_from:
 
 ## Organizers
  
+ Joice Klipel ([Leuphana University of Lüneburg](https://www.leuphana.de/institute/institut-fuer-oekologie/personen/joice-klipel.html), [scholar](https://scholar.google.com/citations?user=oG4eV9MAAAAJ&hl=pt-BR))
+
+ Rodrigo Scarton Bergamin (University of Birmingham, [scholar](https://scholar.google.com.br/citations?user=uAoCb5gAAAAJ&hl=pt-PT))
+ 
  Adriane Esquivel-Muelbert ([University of Birmingham](https://www.birmingham.ac.uk/staff/profiles/gees/muelbert-adriane-esquivel), [scholar](https://scholar.google.com/citations?user=d6XOOK0AAAAJ&hl=en))
 
  André Luís de Gasper (Universidade Regional de Blumenau, [scholar](https://scholar.google.com.br/citations?user=FPXYzWkAAAAJ&hl=pt-BR), [site](https://www.floresta.sc.gov.br/), [instagram](https://instagram.com/inventarioflorestal.sc/))
 
- Joice Klipel ([Leuphana University of Lüneburg](https://www.leuphana.de/institute/institut-fuer-oekologie/personen/joice-klipel.html), [scholar](https://scholar.google.com/citations?user=oG4eV9MAAAAJ&hl=pt-BR))
-
- Rodrigo Scarton Bergamin (University of Birmingham, [scholar](https://scholar.google.com.br/citations?user=uAoCb5gAAAAJ&hl=pt-PT))
-
- Sandra Cristina Müller (Universidade Federal do Rio Grande do Sul, [scholar](https://scholar.google.com.br/citations?user=YOhnblMAAAAJ&hl=pt-BR))
-
  Simone Aparecida Vieira (Universidade Estadual de Campinas, [scholar](https://scholar.google.com/citations?user=sxEVweUAAAAJ&hl=en))
+ 
+ Sandra Cristina Müller (Universidade Federal do Rio Grande do Sul, [scholar](https://scholar.google.com.br/citations?user=YOhnblMAAAAJ&hl=pt-BR))
 
 ## Team Members
  
