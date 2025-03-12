@@ -69,6 +69,8 @@ redirect_from:
 
  Luiz Magnago (Universidade Federal do Sul da Bahia, [scholar](https://scholar.google.com/citations?user=eOj5FKoAAAAJ&hl=pt-BR))
 
+ Márcia C.M. Marques (Universidade Federal do Paraná, [scholar](https://scholar.google.com/citations?user=ofFgtJwAAAAJ&hl=pt-BR))
+
  Marcelo Trindade Nascimento (Universidade Estadual do Norte Fluminense Darcy Ribeiro, [scholar](https://scholar.google.com.br/citations?user=D5Peey4AAAAJ&hl=pt-BR))
 
  Mario Moura (Universidade Estadual de Campinas)
