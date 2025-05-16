@@ -23,7 +23,7 @@ redirect_from:
 
  Simone Aparecida Vieira (Universidade Estadual de Campinas, [scholar](https://scholar.google.com/citations?user=sxEVweUAAAAJ&hl=en))
  
- Sandra Cristina Müller (Universidade Federal do Rio Grande do Sul, [scholar](https://scholar.google.com.br/citations?user=YOhnblMAAAAJ&hl=pt-BR))
+ Sandra Cristina Müller (Universidade Federal do Rio Grande do Sul, [scholar](https://scholar.google.com.br/citations?user=YOhnblMAAAAJ&hl=pt-BR), [instagram](https://www.instagram.com/leveg.ufrgs/))
 
 ## Team Members
  
